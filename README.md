@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< Read me of bookmarks project
 #bookmarks
 =======
 # bookmarks
